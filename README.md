@@ -12,4 +12,7 @@ Tugas Internship 2 Computing : <br>**Data Science**
 ### **Pembagian Tugas**
 >- Vincentius A. F.<br>
 computeCost
+>- Fathuddin Ashari Amir<br>
+gradientDescent
+
 
